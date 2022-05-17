@@ -1,8 +1,10 @@
 import React from 'react'
+import Header2 from './Header2'
 
 const Addbooks = () => {
   return (
     <div>
+        <Header2/>
 <div class="container">
     <div class="row">
         <div class="col col-12 div-sm-12 col-md-12 col-lg-12 div-xl-12 col-xxl-12">
